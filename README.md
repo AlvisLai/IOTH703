@@ -6,11 +6,12 @@ An web application that providing video streaming, recording function and object
 
 
 ### Project dependencies
-	* [Python](https://www.python.org/)
-	* [PICamera](https://picamera.readthedocs.io/)
-	* [OpenCV](https://opencv.org/)
-	* [Flask](https://flask.palletsprojects.com/)
-	* [NumPy](https://numpy.org/)
+
+* [Python](https://www.python.org/)
+* [PICamera](https://picamera.readthedocs.io/)
+* [OpenCV](https://opencv.org/)
+* [Flask](https://flask.palletsprojects.com/)
+* [NumPy](https://numpy.org/)
 	
 ## Hardware requirement
 	Camera
