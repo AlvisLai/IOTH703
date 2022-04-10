@@ -1,5 +1,5 @@
 # IOTH703
-## Surveillance Camera to check Live footage
+## Surveillance Camera running on Raspberry PI to check Live footage
 
 ## About The Project
 An web application that providing video streaming, recording function and object detection function.
