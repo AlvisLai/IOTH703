@@ -6,10 +6,6 @@ An web application that providing video streaming, recording function and object
 
 
 ### Project dependencies
-	Python
-	PICamera
-	OpenCV
-	Flask
 	* [Python](https://www.python.org/)
 	* [PICamera](https://picamera.readthedocs.io/)
 	* [OpenCV](https://opencv.org/)
@@ -51,20 +47,19 @@ Run the following steps to get a local copy up.
    ```sh
    python3 main.py
    ```
-4. Access 0.0.0.0:5001 for the result
+4. Access http://localhost:5001 for the result
    
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
 
 Alvis Lai - alvislaish@gamil.com
+Kenny Chan - arkin803@gmail.com
 
 Project Link: [https://github.com/AlvisLai/IOTH703](https://github.com/AlvisLai/IOTH703)
 
