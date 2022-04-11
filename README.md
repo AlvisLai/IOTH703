@@ -60,7 +60,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Alvis Lai - alvislaish@gamil.com, 
-Kenny Chan - arkin803@gmail.com
+Kenny Chan - kchan257@my.centennialcollege.ca
 
 Project Link: [https://github.com/AlvisLai/IOTH703](https://github.com/AlvisLai/IOTH703)
 
