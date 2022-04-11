@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Alvis Lai - alvislaish@gamil.com, 
 Kenny Chan - kchan257@my.centennialcollege.ca
 
-Project Link: [https://github.com/AlvisLai/IOTH703](https://github.com/AlvisLai/IOTH703)
+Project Link: [https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage](https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage)
 
    
    
