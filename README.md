@@ -65,10 +65,3 @@ Kenny Chan - kchan257@my.centennialcollege.ca
 Project Link: [https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage](https://github.com/AlvisLai/Surveillance-Camera-to-check-Live-footage)
 
    
-   
-   
-   
-   
-   
-   
-   
